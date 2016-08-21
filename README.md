@@ -1,6 +1,7 @@
 # WifiRetriever
-Python Program to Grab Stored Wifi Passwords
+for python 3.5.1
 
+Python Program to Grab Stored Wifi Passwords on Windows
 
 Made this after looking around and not being able to find anything that fits my needs.
 
@@ -8,3 +9,4 @@ Have elderly father in law who we got a tablet for so we can Skype. He doesn't k
 
 Thought about adding in some twilio or email to just send it but had to make this quick so we could send out his tablet. 
 
+Used pyinstaller to make it send email it to him. Worked good so far. 
